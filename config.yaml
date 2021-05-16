@@ -1,15 +1,15 @@
 baseURL: "/"
 languageCode: "en-us"
 theme: "hugo-theme-novela"
-title: "Hugo Novela"
+title: "Pilipinas.pages.dev"
 pygmentsstyle: "monokai"
 paginate: 6
 social:
-  twitter: "#"
-  github: "#"
-  instagram: "#"
-  linkedin: "#"
-  dribbble: "#"
-  youtube: "#"
+  twitter: "https://twitter.com/law_aritao"
+  github: "https://github.com/lawrenceaph"
+  instagram: "https://instagram.com/coffeeandthis"
+  # linkedin: "#"
+  # dribbble: "#"
+  # youtube: "#"
 taxonomies:
   author: Law
